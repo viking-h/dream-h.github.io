@@ -3,12 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dream-h.github.io/categories/</loc>
+    <loc>https://dream-h.github.io/</loc>
+    <lastmod>2019-06-13T18:35:44+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dream-h.github.io/</loc>
+    <loc>https://dream-h.github.io/post/</loc>
+    <lastmod>2019-06-13T18:35:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dream-h.github.io/post/python_struct_first/</loc>
+    <lastmod>2019-06-13T18:35:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dream-h.github.io/post/first/</loc>
+    <lastmod>2019-06-13T18:00:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dream-h.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
