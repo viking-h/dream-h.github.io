@@ -6,18 +6,18 @@
     <description>Recent content in Posts on Orianna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Thu, 13 Jun 2019 18:35:44 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 20:26:45 +0000</lastBuildDate>
     
 	<atom:link href="https://dream-h.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Python_struct_first</title>
-      <link>https://dream-h.github.io/post/python_struct_first/</link>
-      <pubDate>Thu, 13 Jun 2019 18:35:44 +0800</pubDate>
+      <title>Python_learn1</title>
+      <link>https://dream-h.github.io/post/python_learn1/</link>
+      <pubDate>Thu, 13 Jun 2019 20:26:45 +0000</pubDate>
       
-      <guid>https://dream-h.github.io/post/python_struct_first/</guid>
-      <description>数组 实现一个支持动态扩容的数组 实现一个大小固定的有序数组，支持动态增删改操作 实现两个有序数组合并为一个有序数组 链表 实现单链表、循环链表、双向链表，支持增删操作 实现单链表反转 实现两个有序的链表合并为一个有序链表 实现求链表的中间结点 栈 用数组实现一个顺序栈 用链表实现一个链式栈 编程模拟实现一个浏览器的前进、后退功能 队列 用数组实现一个顺序队列 用链表实现一个链式队列 实现一个循环队列 递归 编程实现斐波那契数列求值</description>
+      <guid>https://dream-h.github.io/post/python_learn1/</guid>
+      <description>python学习之路</description>
     </item>
     
     <item>

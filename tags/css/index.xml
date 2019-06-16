@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Orianna</title>
-    <link>https://dream-h.github.io/</link>
-    <description>Recent content on Orianna</description>
+    <title>css on Orianna</title>
+    <link>https://dream-h.github.io/tags/css/</link>
+    <description>Recent content in css on Orianna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
     <lastBuildDate>Sun, 16 Jun 2019 17:52:45 +0800</lastBuildDate>
     
-	<atom:link href="https://dream-h.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dream-h.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,24 +27,6 @@
       
       <guid>https://dream-h.github.io/post/python_learn1/</guid>
       <description>python学习之路</description>
-    </item>
-    
-    <item>
-      <title>Python_struct</title>
-      <link>https://dream-h.github.io/blog/2019-06/python_struct/</link>
-      <pubDate>Thu, 13 Jun 2019 18:35:44 +0800</pubDate>
-      
-      <guid>https://dream-h.github.io/blog/2019-06/python_struct/</guid>
-      <description>first struct</description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>https://dream-h.github.io/post/first/</link>
-      <pubDate>Thu, 13 Jun 2019 18:00:49 +0800</pubDate>
-      
-      <guid>https://dream-h.github.io/post/first/</guid>
-      <description>第一篇博客</description>
     </item>
     
   </channel>
